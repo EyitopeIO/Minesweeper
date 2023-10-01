@@ -5,3 +5,6 @@ Full code is also in the tutor's [repository](https://github.com/Aprataksh/Mines
 I came up with how the GUI would integrate with the original code and my mate helped find useful snippets I requested for.
 
 This repo was first created as private to avoid any plagiarism software from finding my github; hence the abscence of a detailed commit history. 
+
+To run, just `./minesweeper.py` from within the source.
+
